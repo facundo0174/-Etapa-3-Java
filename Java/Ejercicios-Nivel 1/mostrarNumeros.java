@@ -1,4 +1,6 @@
 //nivle 1 ejercicio 1
+/*Suma de dos números: Se le solicita que guarden dos números enteros y los 
+sumen. El resultado mostrarlo por pantalla.  */
 public class mostrarNumeros {
     public static void main(String[] arg){
         int num1= 4;

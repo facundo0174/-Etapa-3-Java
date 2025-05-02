@@ -1,4 +1,8 @@
 //nivel 1 ejercicio 11
+/*Acumulador: Se le solicita que guarde en un espacio de memoria la acumulación 
+de quince multiplicaciones entre dos números enteros divididos por el número de la 
+multiplicación. Por ejemplo: Numero1*Numero2/1 + Numero1*Numero2/2 + … + 
+Numero1*Numero2/15. El resultado mostrarlo por pantalla.  */
 import java.util.Scanner;
 public class MultiplicacionRara {
     public static void main(String[] args ){

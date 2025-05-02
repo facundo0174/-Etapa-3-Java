@@ -1,4 +1,6 @@
 //nivle 1 ejercicio 1 version 2
+/*Suma de dos números: Se le solicita que guarden dos números enteros y los 
+sumen. El resultado mostrarlo por pantalla.  */
 import java.util.Scanner; // paquete que te permite hacer un analogo a readln de la terminal
 public class escanear {
     public static void main (String[] arg){

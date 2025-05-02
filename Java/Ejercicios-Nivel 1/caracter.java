@@ -1,4 +1,7 @@
 // nivel 1 ejercicio 4
+/*Caracteres : Guarde en distintos espacios de memoria los caracteres de su nombre 
+y luego imprimirlos por pantalla. ¿Por qué no puede usar "" en el char? */
+
 import java.util.Scanner;
 public class caracter {
     public static void main(String[] args){

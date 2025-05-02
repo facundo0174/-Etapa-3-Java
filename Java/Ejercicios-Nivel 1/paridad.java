@@ -1,4 +1,11 @@
 // nivel 1 ejercicio 2 y 3 en simultaneo
+/*
+ * Suma de dos números: Se le solicita que guarden dos números enteros y los 
+sumen. El resultado mostrarlo por pantalla. 
+2. Suma de dos números bis: Se les solicita que guarden dos números enteros y los 
+sumen. El resultado guardarlo, mostrarlo por pantalla junto con un mensaje que 
+indique si se trata de un número par o impar.
+ */
 import java.util.Scanner;
 public class paridad {
     public static void main (String[] args){

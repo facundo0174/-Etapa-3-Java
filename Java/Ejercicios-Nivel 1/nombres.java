@@ -1,4 +1,9 @@
 //nivel 1 ejercicio 9
+/*Mi nombre y edad: Se le solicita que guarde en un espacio de memoria su nombre 
+y apellido, luego guarde su edad e imprimalos por pantalla. 
+El mensaje debe tener el siguiente formato:  
+“Mi nombre es “ {Nombre} 
+“Mi edad es” {Edad}  */
 import java.util.Scanner;
 public class nombres {
     public static void main(String[] args){
