@@ -42,5 +42,6 @@ public class Equipos {
             }
         }
         read.close();
+
     }
 }
